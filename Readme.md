@@ -4,7 +4,7 @@ Hi 👋 My name is Shubham Hire
 Web Developer and Software Programmer
 -------------------------------------
 
-Student in Information Technology Engineering with Experience and Extensive Education in Software Design and Application Development. Fluent in English, Hindi, and Interpersonal Skills. A fast learner with strong time management and multi-tasking skills. Strong ethic in a team or individual settings to drive product success and process efficiency. Strong troubleshooting and problem-solving skills with an analytical mindset.
+Software Engineeer with Experience and Extensive Education in Software Design and Application Development. Fluent in English, Hindi, and Interpersonal Skills. A fast learner with strong time management and multi-tasking skills. Strong ethic in a team or individual settings to drive product success and process efficiency. Strong troubleshooting and problem-solving skills with an analytical mindset.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [shubhamhire.work@gmail.com](mailto:shubhamhire.work@gmail.com)
