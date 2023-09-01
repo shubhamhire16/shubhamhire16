@@ -11,8 +11,8 @@ Software Engineeer with Experience and Extensive Education in Software Design an
 * 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Interesting Projects
 
-<a href="https://www.twitter.com/shubhamhire_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shubhamhire_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/that_coderGuy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/that_coderGuy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
