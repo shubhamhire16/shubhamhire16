@@ -8,7 +8,7 @@ Software Engineeer with Experience and Extensive Education in Software Design an
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [shubhamhire.work@gmail.com](mailto:shubhamhire.work@gmail.com)
-* 🧠  I'm learning Cloud Computing
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/that_coderGuy" target="_blank" rel="noreferrer"><img
